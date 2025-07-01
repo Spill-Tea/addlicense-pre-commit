@@ -1,7 +1,7 @@
 - id: addlicense
   name: addlicense
   description: Add copyright license header to source code.
-  entry: addlicense
+  entry: addlicense-pre-commit
   types: [text]
   language: golang
   minimum_pre_commit_version: 3.0.0
