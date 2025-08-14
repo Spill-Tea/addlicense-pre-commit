@@ -1,3 +1,10 @@
+# Public Archive
+This repository has now been deprecated, and will remain archived, since the
+original repository has been revived. I recommend continuing with the latest release of
+[addlicense v1.2.0](https://github.com/google/addlicense/releases/tag/v1.2.0), which
+provides pre-commit hook and supports cython files.
+
+
 # addlicense
 
 The program ensures source code files have copyright license headers
